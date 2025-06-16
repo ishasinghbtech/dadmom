@@ -175,7 +175,7 @@ export default function App() {
       {!isUnlocked ? (
         <>
           <h1 style={{ fontSize: '3rem', marginBottom: '16px', fontWeight: '900' }}>
-            Counting down to Mom & Dad&apos;s Anniversary
+            Counting down to your Engagement Anniversary YAYYYYYY
           </h1>
           <div
             role="timer"
@@ -207,7 +207,7 @@ export default function App() {
             </div>
           </div>
           <p style={{ marginTop: '24px', fontSize: '1.25rem', opacity: 0.9 }}>
-            The special celebration will unlock soon! Stay tuned.
+            Keep Watching. Reload on 18th. 
           </p>
           <span
             className="material-icons"
@@ -222,7 +222,7 @@ export default function App() {
           <h1
             style={{ fontWeight: '900', fontSize: '2.75rem', marginBottom: '16px', userSelect: 'text' }}
           >
-            Happy Anniversary, Mama & Papa!
+            Happy Engagement Anniversary, Mama & Papa!
           </h1>
           <div style={{ maxWidth: '500px', width: '100%', userSelect: 'none' }}>
             <Slider {...sliderSettings} aria-label="Slideshow of Anniversary Pictures">
