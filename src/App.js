@@ -6,7 +6,7 @@ import { useWindowSize } from 'react-use';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-const countdownTarget = new Date('2025-06-15T00:00:00');
+const countdownTarget = new Date('2025-06-18T00:00:00');
 
 const images = [
   {
